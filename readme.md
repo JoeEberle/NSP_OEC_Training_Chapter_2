@@ -61,7 +61,7 @@ The purpose of **Quality Improvement (QI)** in emergency care systems is to ensu
 
 Overall, QI fosters a culture of continuous improvement, ensuring that emergency care systems adapt and improve to meet evolving medical standards and patient needs.
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
