@@ -25,7 +25,7 @@
 3. **Coordination**: Seamless coordination between different parts of the system (e.g., first responders, hospitals, and specialized services) ensures efficient care delivery.
 4. **Trained Personnel**: Emergency care systems rely on highly trained personnel, including EMTs, paramedics, nurses, and doctors, to provide competent and skilled care.
 5. **Adequate Resources** Having sufficient medical equipment, ambulances, and facilities ensures that care is available when needed.
-6. **Triage**: The system must include processes for prioritizing care based on the severity of a patient’s condition to ensure those most in need are treated first.
+6. **Triage**: The system must include processes for prioritizing care based on the severity of a patientâ€™s condition to ensure those most in need are treated first.
 7. **Public Education**: Public awareness programs that educate the population on recognizing emergencies and contacting the system quickly can improve outcomes.
 
 ## 2.2 Four nationally recognized prehospital emergency care provider levels:
