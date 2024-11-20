@@ -25,7 +25,7 @@
 3. **Coordination**: Seamless coordination between different parts of the system (e.g., first responders, hospitals, and specialized services) ensures efficient care delivery.
 4. **Trained Personnel**: Emergency care systems rely on highly trained personnel, including EMTs, paramedics, nurses, and doctors, to provide competent and skilled care.
 5. **Adequate Resources** Having sufficient medical equipment, ambulances, and facilities ensures that care is available when needed.
-6. **Triage**: The system must include processes for prioritizing care based on the severity of a patientâ€™s condition to ensure those most in need are treated first.
+6. **Triage**: The system must include processes for prioritizing care based on the severity of a patient’s condition to ensure those most in need are treated first.
 7. **Public Education**: Public awareness programs that educate the population on recognizing emergencies and contacting the system quickly can improve outcomes.
 
 ## 2.2 Four nationally recognized prehospital emergency care provider levels:
@@ -76,24 +76,4 @@ Overall, QI fosters a culture of continuous improvement, ensuring that emergency
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 2** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](NSP_OEC_Training_Chapter_2.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
